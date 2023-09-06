@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "a03226176606b0e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecb0245ee689cb75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "595b6c460bda4483",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "收集箱/游戏架构.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd5f6dc926d3b8b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "收集箱/OKR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96630562e33c176f",
+    "type": "split",
+    "children": [
+      {
+        "id": "de7404c17f6d15b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8da9119658ff0468",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14aff5db4c36a6fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54a9fe81783cc4e8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "700c940e73ebd5cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a668912a9b306ea9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a793955693591160",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49a18bbe2b067970",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "收集箱/游戏架构.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "9a3fad67844b2818",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "收集箱/游戏架构.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a152f184ef49fc17",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "136fddaee8e30781",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "收集箱/游戏架构.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "595b6c460bda4483",
+  "lastOpenFiles": [
+    "收集箱/OKR.md",
+    "收集箱/游戏架构.md",
+    "收集箱/attachments/d7d28d3a-9bcd-41fe-b08f-4cd53bf77036.jpeg",
+    "收集箱/attachments/img_v2_8bba48ce-e9d7-47f6-930b-e606212f803g.jpg",
+    "收集箱/attachments/0d34c37f-abef-4b56-92e0-65270398a8eb.jpeg",
+    "收集箱/attachments/img_v2_73275eaf-ef25-4d4b-9082-ed7784429e9g.jpg",
+    "收集箱/attachments/img_v2_6107c57c-885a-457f-a84c-68e7d08aff0g.jpg",
+    "收集箱/attachments/img_v2_fcad8e21-aef6-46ce-94af-bfcc4d4a566g.jpg",
+    "收集箱/attachments/4685c932-7688-4632-92f6-f0558501b0e0.jpeg",
+    "收集箱/attachments/img_v2_3baec1b8-7ae3-46d9-82cc-d5b5d0346deg.jpg",
+    "未命名.md",
+    "收集箱/瞄准偏移.md",
+    "收集箱/Look at节点.md",
+    "收集箱/游戏中的经济系统.md",
+    "收集箱/游戏推广的黄金法则：没人关心你的游戏.md",
+    "收集箱/attachments/Pasted image 20230506155729.png",
+    "收集箱/attachments/Pasted image 20230506152551.png",
+    "收集箱/attachments",
+    "收集箱/动画序列.md",
+    "工具/未命名.md",
+    "收集箱",
+    "工具/Obsidient Markdown语法.md",
+    "技术/Sharder/UE 虚幻引擎中实现Ordered Dithering并利用不透明蒙版实现半透明效果.md",
+    "技术/Sharder",
+    "技术",
+    "说明书/Typora Markdown语法.md",
+    "(/工具/attachments/火车.png).md",
+    "(/工具/attachments",
+    "(/工具",
+    "(",
+    "(./attachments/火车.png).md",
+    "(./attachments",
+    "(.",
+    "工具/attachments",
+    "(/path/to/img.jpg).md",
+    "说明书/[].md",
+    "说明书/[.md",
+    "未命名.canvas",
+    "2023-03-29.md"
+  ]
+}

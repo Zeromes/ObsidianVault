@@ -1,0 +1,17 @@
+{
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "newFileFolderPath": "收集箱",
+  "attachmentFolderPath": "./attachments",
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "spellcheckLanguages": null,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
